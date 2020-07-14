@@ -1,0 +1,2 @@
+rootProject.name='jagritTube'
+include ':app'
